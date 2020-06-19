@@ -1,3 +1,4 @@
 def oxford_comma(fruits)
-  fruits.size = "kiwi"
+  fruits = "kiwi"
+  fruits.size == 1
 end
