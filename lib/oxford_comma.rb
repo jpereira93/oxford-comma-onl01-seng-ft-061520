@@ -4,5 +4,5 @@ def oxford_comma(fruits)
 elsif fruits.size == 2
 return fruits. join (" and ")
 else
-    return fruits(0..-2)
+    return fruits.join
     
