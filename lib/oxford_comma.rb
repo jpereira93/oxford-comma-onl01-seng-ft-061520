@@ -1,4 +1,4 @@
-def oxford_comma(array)
-  oxford_comma = "kiwi"
+def oxford_comma = (kiwi,durian)
+  oxford_comma.join = "kiwi"
 
 end
